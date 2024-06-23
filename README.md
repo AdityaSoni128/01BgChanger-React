@@ -1,8 +1,9 @@
-# React + Vite
+Made in React with Vite and use of Tailwind.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+steps to clonne and Run: - 
 
-Currently, two official plugins are available:
+1. open terminal and paste ---> git clone https://github.com/AdityaSoni128/01BgChanger-React.git
+2. Run command --> npm i (make sure you have already installed node ).
+3. Then run --> npm run dev
+4. Its all set.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
